@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:16-jdk-alpine3.13
 MAINTAINER Prashant ojha<prashantojha01@gmail.com>
 VOLUME /tmp
 EXPOSE 9090
